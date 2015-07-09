@@ -1,0 +1,45 @@
+{
+  "name": "rpp",
+  "version": "0.1.0",
+  "description": "\"Requre++\" require a collection of files (modules and or assets), using glob expressions",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://zenflow@github.com/zenflow/rpp.git"
+  },
+  "keywords": [
+    "require",
+    "include",
+    "load",
+    "glob",
+    "globbing",
+    "globbed",
+    "file",
+    "files",
+    "module",
+    "modules",
+    "asset",
+    "assets",
+    "data",
+    "binary",
+    "text"
+  ],
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenflow/rpp/issues"
+  },
+  "homepage": "https://github.com/zenflow/rpp",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "glob": "^5.0.13"
+  }
+}
